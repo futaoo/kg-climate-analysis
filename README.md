@@ -1,7 +1,7 @@
 # Boosting Climate Analysis with Semantically Uplifted Knowledge Graphs
 With the spirit of reproducible research, this repository includes a complete collection of codes required to generate the results and diagrams presented in the paper:
 
-> J. Wu, F. Orlandi, D. O'Sullivan, E. Pisoni, S. Dev, Boosting Climate Analysis with Semantically Uplifted Knowledge Graphs, *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2022.
+> J. Wu, F. Orlandi, D. O'Sullivan, E. Pisoni, and S. Dev, Boosting Climate Analysis with Semantically Uplifted Knowledge Graphs, *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2022.
 
 ## Details
 - `kg_sensor_analysis.ipynb` contains coding work for sensor selection determined by using the combination of [`Burota` algorithm](https://pypi.org/project/BorutaShap/) and [`lazy_predict`](https://lazypredict.readthedocs.io/en/latest/), which is the first phase of the experiment on the paper.
